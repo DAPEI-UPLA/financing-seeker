@@ -1,0 +1,132 @@
+2025-10-28 14:48:02,293 - INFO - Iniciando solicitud HTTP a la URL: http://www.fondosconcursables.gorev.cl/bases.php
+2025-10-28 14:48:02,856 - INFO - Solicitud HTTP exitosa. Procesando contenido HTML...
+2025-10-28 14:48:02,856 - INFO - Título de concurso encontrado: Línea 1: Vinculación con la Comunidad: para municipios, entidades públicas y otras instituciones sin fines de lucro.
+2025-10-28 14:48:02,856 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2025-10-28 14:48:02,856 - INFO - Título de concurso encontrado: Línea 2: Organizaciones Comunitarias, FNDR 8%.
+2025-10-28 14:48:02,856 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2025-10-28 14:48:02,872 - INFO - Fecha de inicio encontrada: 22-10-2025
+2025-10-28 14:48:02,872 - INFO - Fecha de término encontrada: 03-11-2025 / 10:00:59
+2025-10-28 14:48:02,872 - INFO - Fecha de inicio encontrada: 01-04-2025
+2025-10-28 14:48:02,872 - INFO - Fecha de término encontrada: 30-04-2025 / 20:00:00
+2025-10-28 14:48:02,872 - INFO - Resultados guardados en el archivo 'concursos_gore_valparaiso.json'.
+2025-10-30 09:23:31,575 - INFO - Iniciando solicitud HTTP a la URL: http://www.fondosconcursables.gorev.cl/bases.php
+2025-10-30 09:23:31,778 - INFO - Solicitud HTTP exitosa. Procesando contenido HTML...
+2025-10-30 09:23:31,793 - INFO - Título de concurso encontrado: Línea 1: Vinculación con la Comunidad: para municipios, entidades públicas y otras instituciones sin fines de lucro.
+2025-10-30 09:23:31,793 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2025-10-30 09:23:31,793 - INFO - Título de concurso encontrado: Línea 2: Organizaciones Comunitarias, FNDR 8%.
+2025-10-30 09:23:31,793 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2025-10-30 09:23:31,793 - INFO - Fecha de inicio encontrada: 22-10-2025
+2025-10-30 09:23:31,793 - INFO - Fecha de término encontrada: 03-11-2025 / 10:00:59
+2025-10-30 09:23:31,793 - INFO - Fecha de inicio encontrada: 01-04-2025
+2025-10-30 09:23:31,793 - INFO - Fecha de término encontrada: 30-04-2025 / 20:00:00
+2025-10-30 09:23:31,793 - INFO - Resultados guardados en el archivo 'concursos_gore_valparaiso.json'.
+2025-11-05 12:19:57,445 - INFO - Iniciando solicitud HTTP a la URL: http://www.fondosconcursables.gorev.cl/bases.php
+2025-11-05 12:19:57,508 - INFO - Solicitud HTTP exitosa. Procesando contenido HTML...
+2025-11-05 12:19:57,523 - INFO - Título de concurso encontrado: Línea 1: Vinculación con la Comunidad: para municipios, entidades públicas y otras instituciones sin fines de lucro.
+2025-11-05 12:19:57,523 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2025-11-05 12:19:57,523 - INFO - Título de concurso encontrado: Línea 2: Organizaciones Comunitarias, FNDR 8%.
+2025-11-05 12:19:57,523 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2025-11-05 12:19:57,523 - INFO - Fecha de inicio encontrada: 22-10-2025
+2025-11-05 12:19:57,523 - INFO - Fecha de término encontrada: 03-11-2025 / 10:00:59
+2025-11-05 12:19:57,523 - INFO - Fecha de inicio encontrada: 01-04-2025
+2025-11-05 12:19:57,523 - INFO - Fecha de término encontrada: 30-04-2025 / 20:00:00
+2025-11-05 12:19:57,523 - INFO - Resultados guardados en el archivo 'concursos_gore_valparaiso.json'.
+2025-11-10 13:53:58,980 - INFO - Iniciando solicitud HTTP a la URL: http://www.fondosconcursables.gorev.cl/bases.php
+2025-11-10 13:53:59,543 - INFO - Solicitud HTTP exitosa. Procesando contenido HTML...
+2025-11-10 13:53:59,543 - INFO - Título de concurso encontrado: Línea 1: Vinculación con la Comunidad: para municipios, entidades públicas y otras instituciones sin fines de lucro.
+2025-11-10 13:53:59,543 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2025-11-10 13:53:59,543 - INFO - Título de concurso encontrado: Línea 2: Organizaciones Comunitarias, FNDR 8%.
+2025-11-10 13:53:59,543 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2025-11-10 13:53:59,558 - INFO - Fecha de inicio encontrada: 22-10-2025
+2025-11-10 13:53:59,558 - INFO - Fecha de término encontrada: 03-11-2025 / 10:00:59
+2025-11-10 13:53:59,574 - INFO - Fecha de inicio encontrada: 01-04-2025
+2025-11-10 13:53:59,574 - INFO - Fecha de término encontrada: 30-04-2025 / 20:00:00
+2025-11-10 13:53:59,574 - INFO - Resultados guardados en el archivo 'concursos_gore_valparaiso.json'.
+2025-11-13 13:32:09,435 - INFO - Iniciando solicitud HTTP a la URL: http://www.fondosconcursables.gorev.cl/bases.php
+2025-11-13 13:32:09,513 - INFO - Solicitud HTTP exitosa. Procesando contenido HTML...
+2025-11-13 13:32:09,545 - INFO - Título de concurso encontrado: Línea 1: Vinculación con la Comunidad: para municipios, entidades públicas y otras instituciones sin fines de lucro.
+2025-11-13 13:32:09,545 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2025-11-13 13:32:09,545 - INFO - Título de concurso encontrado: Línea 2: Organizaciones Comunitarias, FNDR 8%.
+2025-11-13 13:32:09,545 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2025-11-13 13:32:09,545 - INFO - Fecha de inicio encontrada: 22-10-2025
+2025-11-13 13:32:09,545 - INFO - Fecha de término encontrada: 03-11-2025 / 10:00:59
+2025-11-13 13:32:09,545 - INFO - Fecha de inicio encontrada: 01-04-2025
+2025-11-13 13:32:09,545 - INFO - Fecha de término encontrada: 30-04-2025 / 20:00:00
+2025-11-13 13:32:09,545 - INFO - Resultados guardados en el archivo 'concursos_gore_valparaiso.json'.
+2025-11-17 14:41:20,942 - INFO - Iniciando solicitud HTTP a la URL: http://www.fondosconcursables.gorev.cl/bases.php
+2025-11-17 14:41:21,520 - INFO - Solicitud HTTP exitosa. Procesando contenido HTML...
+2025-11-17 14:41:21,520 - INFO - Título de concurso encontrado: Línea 1: Vinculación con la Comunidad: para municipios, entidades públicas y otras instituciones sin fines de lucro.
+2025-11-17 14:41:21,520 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2025-11-17 14:41:21,520 - INFO - Título de concurso encontrado: Línea 2: Organizaciones Comunitarias, FNDR 8%.
+2025-11-17 14:41:21,520 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2025-11-17 14:41:21,520 - INFO - Fecha de inicio encontrada: 22-10-2025
+2025-11-17 14:41:21,536 - INFO - Fecha de término encontrada: 03-11-2025 / 10:00:59
+2025-11-17 14:41:21,536 - INFO - Fecha de inicio encontrada: 01-04-2025
+2025-11-17 14:41:21,536 - INFO - Fecha de término encontrada: 30-04-2025 / 20:00:00
+2025-11-17 14:41:21,536 - INFO - Resultados guardados en el archivo 'concursos_gore_valparaiso.json'.
+2025-11-24 09:40:50,555 - INFO - Iniciando solicitud HTTP a la URL: http://www.fondosconcursables.gorev.cl/bases.php
+2025-11-24 09:40:50,633 - INFO - Solicitud HTTP exitosa. Procesando contenido HTML...
+2025-11-24 09:40:50,633 - INFO - Título de concurso encontrado: Línea 1: Vinculación con la Comunidad: para municipios, entidades públicas y otras instituciones sin fines de lucro.
+2025-11-24 09:40:50,649 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2025-11-24 09:40:50,649 - INFO - Título de concurso encontrado: Línea 2: Organizaciones Comunitarias, FNDR 8%.
+2025-11-24 09:40:50,649 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2025-11-24 09:40:50,649 - INFO - Fecha de inicio encontrada: 22-10-2025
+2025-11-24 09:40:50,649 - INFO - Fecha de término encontrada: 03-11-2025 / 10:00:59
+2025-11-24 09:40:50,649 - INFO - Fecha de inicio encontrada: 01-04-2025
+2025-11-24 09:40:50,649 - INFO - Fecha de término encontrada: 30-04-2025 / 20:00:00
+2025-11-24 09:40:50,649 - INFO - Resultados guardados en el archivo 'concursos_gore_valparaiso.json'.
+2025-11-27 11:47:44,730 - INFO - Iniciando solicitud HTTP a la URL: http://www.fondosconcursables.gorev.cl/bases.php
+2025-11-27 11:47:44,840 - INFO - Solicitud HTTP exitosa. Procesando contenido HTML...
+2025-11-27 11:47:44,855 - INFO - Título de concurso encontrado: Línea 1: Vinculación con la Comunidad: para municipios, entidades públicas y otras instituciones sin fines de lucro.
+2025-11-27 11:47:44,855 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2025-11-27 11:47:44,855 - INFO - Título de concurso encontrado: Línea 2: Organizaciones Comunitarias, FNDR 8%.
+2025-11-27 11:47:44,855 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2025-11-27 11:47:44,855 - INFO - Fecha de inicio encontrada: 22-10-2025
+2025-11-27 11:47:44,855 - INFO - Fecha de término encontrada: 03-11-2025 / 10:00:59
+2025-11-27 11:47:44,855 - INFO - Fecha de inicio encontrada: 01-04-2025
+2025-11-27 11:47:44,855 - INFO - Fecha de término encontrada: 30-04-2025 / 20:00:00
+2025-11-27 11:47:44,855 - INFO - Resultados guardados en el archivo 'concursos_gore_valparaiso.json'.
+2025-12-19 11:11:26,907 - INFO - Iniciando solicitud HTTP a la URL: http://www.fondosconcursables.gorev.cl/bases.php
+2025-12-19 11:11:27,500 - INFO - Solicitud HTTP exitosa. Procesando contenido HTML...
+2025-12-19 11:11:27,500 - INFO - Título de concurso encontrado: Línea 1: Vinculación con la Comunidad: para municipios, entidades públicas y otras instituciones sin fines de lucro.
+2025-12-19 11:11:27,500 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2025-12-19 11:11:27,500 - INFO - Título de concurso encontrado: Línea 2: Organizaciones Comunitarias, FNDR 8%.
+2025-12-19 11:11:27,500 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2025-12-19 11:11:27,516 - INFO - Fecha de inicio encontrada: 22-10-2025
+2025-12-19 11:11:27,516 - INFO - Fecha de término encontrada: 03-11-2025 / 10:00:59
+2025-12-19 11:11:27,516 - INFO - Fecha de inicio encontrada: 01-04-2025
+2025-12-19 11:11:27,516 - INFO - Fecha de término encontrada: 30-04-2025 / 20:00:00
+2025-12-19 11:11:27,516 - INFO - Resultados guardados en el archivo 'concursos_gore_valparaiso.json'.
+2026-01-13 12:34:58,032 - INFO - Iniciando solicitud HTTP a la URL: http://www.fondosconcursables.gorev.cl/bases.php
+2026-01-13 12:34:58,610 - INFO - Solicitud HTTP exitosa. Procesando contenido HTML...
+2026-01-13 12:34:58,610 - INFO - Título de concurso encontrado: Línea 1: Vinculación con la Comunidad: para municipios, entidades públicas y otras instituciones sin fines de lucro.
+2026-01-13 12:34:58,610 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2026-01-13 12:34:58,610 - INFO - Título de concurso encontrado: Línea 2: Organizaciones Comunitarias, FNDR 8%.
+2026-01-13 12:34:58,610 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2026-01-13 12:34:58,625 - INFO - Fecha de inicio encontrada: 22-10-2025
+2026-01-13 12:34:58,625 - INFO - Fecha de término encontrada: 03-11-2025 / 10:00:59
+2026-01-13 12:34:58,625 - INFO - Fecha de inicio encontrada: 01-04-2025
+2026-01-13 12:34:58,625 - INFO - Fecha de término encontrada: 30-04-2025 / 20:00:00
+2026-01-13 12:34:58,625 - INFO - Resultados guardados en el archivo 'concursos_gore_valparaiso.json'.
+2026-01-13 14:58:05,033 - INFO - Iniciando solicitud HTTP a la URL: http://www.fondosconcursables.gorev.cl/bases.php
+2026-01-13 14:58:05,096 - INFO - Solicitud HTTP exitosa. Procesando contenido HTML...
+2026-01-13 14:58:05,111 - INFO - Título de concurso encontrado: Línea 1: Vinculación con la Comunidad: para municipios, entidades públicas y otras instituciones sin fines de lucro.
+2026-01-13 14:58:05,111 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2026-01-13 14:58:05,111 - INFO - Título de concurso encontrado: Línea 2: Organizaciones Comunitarias, FNDR 8%.
+2026-01-13 14:58:05,111 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2026-01-13 14:58:05,111 - INFO - Fecha de inicio encontrada: 22-10-2025
+2026-01-13 14:58:05,111 - INFO - Fecha de término encontrada: 03-11-2025 / 10:00:59
+2026-01-13 14:58:05,111 - INFO - Fecha de inicio encontrada: 01-04-2025
+2026-01-13 14:58:05,111 - INFO - Fecha de término encontrada: 30-04-2025 / 20:00:00
+2026-01-13 14:58:05,111 - INFO - Resultados guardados en el archivo 'concursos_gore_valparaiso.json'.
+2026-03-02 08:08:20,595 - INFO - Iniciando solicitud HTTP a la URL: http://www.fondosconcursables.gorev.cl/bases.php
+2026-03-02 08:08:20,688 - INFO - Solicitud HTTP exitosa. Procesando contenido HTML...
+2026-03-02 08:08:20,704 - INFO - Título de concurso encontrado: Línea 1: Vinculación con la Comunidad: para municipios, entidades públicas y otras instituciones sin fines de lucro.
+2026-03-02 08:08:20,704 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2026-03-02 08:08:20,704 - INFO - Título de concurso encontrado: Línea 2: Organizaciones Comunitarias, FNDR 8%.
+2026-03-02 08:08:20,704 - WARNING - Título ignorado (no es un concurso): Descarga Documentos
+2026-03-02 08:08:20,704 - INFO - Fecha de inicio encontrada: 22-10-2025
+2026-03-02 08:08:20,704 - INFO - Fecha de término encontrada: 03-11-2025 / 10:00:59
+2026-03-02 08:08:20,704 - INFO - Fecha de inicio encontrada: 01-04-2025
+2026-03-02 08:08:20,704 - INFO - Fecha de término encontrada: 30-04-2025 / 20:00:00
+2026-03-02 08:08:20,704 - INFO - Resultados guardados en el archivo 'concursos_gore_valparaiso.json'.

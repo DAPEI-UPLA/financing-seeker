@@ -1,0 +1,232 @@
+[
+    {
+        "nombre": "Fondart Nacional: Línea de Circulación Nacional e Internacional Fondart Nacional 2026 – 2° periodo",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Ministerio de las Culturas, las Artes y el Patrimonio",
+        "link": "https://fondos.gob.cl/ficha/mincap/fondart2026/",
+        "beneficiarios": "Personas Naturales y Jurídicas",
+        "fechas": "Inicio:  02-02-2026   Fin:  02-03-2026",
+        "montos": "$18.000.000"
+    },
+    {
+        "nombre": "PAMMA INICIA PRODUCTIVO 2026",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Ministerio de Minería",
+        "link": "https://fondos.gob.cl/ficha/minmineria/pamma-inicia-prod-2026/",
+        "beneficiarios": "Personas Naturales y Jurídicas",
+        "fechas": "Inicio:  12-02-2026   Fin:  02-03-2026",
+        "montos": "Hasta $10.000.000"
+    },
+    {
+        "nombre": "Fondo de la Música: Convocatoria Línea de Asistencia Mercados FOCO 2026 – WTF Capital of Metal (agentes) y Circulart (artistas)",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Ministerio de las Culturas, las Artes y el Patrimonio",
+        "link": "https://fondos.gob.cl/ficha/mincap/foco-wtf-circulart/",
+        "beneficiarios": "Persona Jurídica",
+        "fechas": "Inicio:  03-02-2026   Fin:  03-03-2026",
+        "montos": "Beneficios"
+    },
+    {
+        "nombre": "Fondo Programa Social Sitios de Memoria (FPSSM)",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Servicio Nacional del Patrimonio Cultural - SERPAT",
+        "link": "https://fondos.gob.cl/ficha/serpat/fpsm/",
+        "beneficiarios": "Persona Jurídica",
+        "fechas": "Inicio:  06-02-2026   Fin:  05-03-2026",
+        "montos": "Entre $26.100.000 y $60.552.000"
+    },
+    {
+        "nombre": "CONCURSO DE VINCULACIÓN CON LA COMUNIDAD 8% PARA GRANDES EVENTOS GOBIERNO REGIONAL DE ANTOFAGASTA AÑO 2026",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Gobierno Regional de Antofagasta",
+        "link": "https://fondos.gob.cl/ficha/goreantofagasta/grandeseventos/",
+        "beneficiarios": "Persona Jurídica",
+        "fechas": "Inicio:  16-02-2026   Fin:  06-03-2026",
+        "montos": "$100.000.000"
+    },
+    {
+        "nombre": "Asignación de Subsidios de operación para el funcionamiento de establecimientos de Larga Estadía para Personas Mayores (ELEAM) - Segundo Llamado",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Gobierno Regional de Aysén",
+        "link": "https://fondos.gob.cl/ficha/goreaysen/asub-eleam-2026/",
+        "beneficiarios": "Persona Jurídica",
+        "fechas": "Inicio:  02-03-2026   Fin:  06-03-2026",
+        "montos": "$600.560.000"
+    },
+    {
+        "nombre": "FONDO DE FORTALECIMIENTO DE ORGANIZACIONES PATRIMONIALES (FFOP) 2026",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Servicio Nacional del Patrimonio Cultural - SERPAT",
+        "link": "https://fondos.gob.cl/ficha/serpat/organizaciones-patrimoniales-ffop/",
+        "beneficiarios": "Organizaciones",
+        "fechas": "Inicio:  23-01-2026   Fin:  06-03-2026",
+        "montos": "$100.000.000"
+    },
+    {
+        "nombre": "FONDO CONCURSABLE PARA PROYECTOS DE CULTURA Y SITIOS DE MEMORIA",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Ministerio de Justicia y Derechos Humanos",
+        "link": "https://fondos.gob.cl/ficha/mjydh/culturaysitios/",
+        "beneficiarios": "Organizaciones",
+        "fechas": "Inicio:  15-01-2026   Fin:  06-03-2026",
+        "montos": "$148.000.000"
+    },
+    {
+        "nombre": "FNDR - Línea Social",
+        "estado": "ABIERTO",
+        "ubicacion": "Regional",
+        "origen": "Gobierno Regional de Los Lagos",
+        "link": "https://fondos.gob.cl/ficha/goreloslagos/lineasocial/",
+        "beneficiarios": "Organizaciones",
+        "fechas": "Inicio:  14-01-2026   Fin:  11-03-2026",
+        "montos": "Entre $4.000.000 a $6.000.000"
+    },
+    {
+        "nombre": "FNDR - Línea Deporte y Elige Vivir Sano",
+        "estado": "ABIERTO",
+        "ubicacion": "Regional",
+        "origen": "Gobierno Regional de Los Lagos",
+        "link": "https://fondos.gob.cl/ficha/goreloslagos/deporte-vivirsano/",
+        "beneficiarios": "Organizaciones",
+        "fechas": "Inicio:  14-01-2026   Fin:  11-03-2026",
+        "montos": "Entre $4.000.000 a $6.000.000"
+    },
+    {
+        "nombre": "FNDR - Línea Medio Ambiente",
+        "estado": "ABIERTO",
+        "ubicacion": "Regional",
+        "origen": "Gobierno Regional de Los Lagos",
+        "link": "https://fondos.gob.cl/ficha/goreloslagos/lineamedioambiente/",
+        "beneficiarios": "Organizaciones",
+        "fechas": "Inicio:  14-01-2026   Fin:  11-03-2026",
+        "montos": "Entre $4.000.000 a $6.000.000"
+    },
+    {
+        "nombre": "FNDR - Línea Bicentenario Chiloé",
+        "estado": "ABIERTO",
+        "ubicacion": "Provincial",
+        "origen": "Gobierno Regional de Los Lagos",
+        "link": "https://fondos.gob.cl/ficha/goreloslagos/bicentenariochiloe/",
+        "beneficiarios": "Organizaciones",
+        "fechas": "Inicio:  14-01-2026   Fin:  11-03-2026",
+        "montos": "$10.000.000"
+    },
+    {
+        "nombre": "FNDR - Línea Seguridad Ciudadana y Protección Civil",
+        "estado": "ABIERTO",
+        "ubicacion": "Regional",
+        "origen": "Gobierno Regional de Los Lagos",
+        "link": "https://fondos.gob.cl/ficha/goreloslagos/seguridad-civil/",
+        "beneficiarios": "Organizaciones",
+        "fechas": "Inicio:  14-01-2026   Fin:  11-03-2026",
+        "montos": "Entre $5.000.000 hasta $15.000.000"
+    },
+    {
+        "nombre": "Fondo Comunidad 2026 - Línea Cultura",
+        "estado": "ABIERTO",
+        "ubicacion": "Regional",
+        "origen": "Gobierno Regional de Los Lagos",
+        "link": "https://fondos.gob.cl/ficha/goreloslagos/fc-cultura/",
+        "beneficiarios": "Organizaciones",
+        "fechas": "Inicio:  14-01-2026   Fin:  11-03-2026",
+        "montos": "$4.000.000"
+    },
+    {
+        "nombre": "FNDR - Línea Cultura Regional",
+        "estado": "ABIERTO",
+        "ubicacion": "Regional",
+        "origen": "Gobierno Regional de Los Lagos",
+        "link": "https://fondos.gob.cl/ficha/goreloslagos/fccregional/",
+        "beneficiarios": "Organizaciones",
+        "fechas": "Inicio:  14-01-2026   Fin:  11-03-2026",
+        "montos": "$15.000.000"
+    },
+    {
+        "nombre": "FONDO CONCURSABLE PARA EL FOMENTO DE LA VINCULACIÓN, ASOCIATIVIDAD Y PARTICIPACIÓN DE LAS COMUNIDADES DE CHILENOS EN EL EXTERIOR 2026",
+        "estado": "ABIERTO",
+        "ubicacion": "Internacional",
+        "origen": "Ministerio de Relaciones Exteriores",
+        "link": "https://fondos.gob.cl/ficha/rree/fondoparaelfomentoexterior/",
+        "beneficiarios": "Organizaciones",
+        "fechas": "Inicio:  22-01-2026   Fin:  13-03-2026",
+        "montos": "Hasta US 3.000"
+    },
+    {
+        "nombre": "Fondo Audiovisual: Asistencia a los Premios Quirino. Convocatoria extraordinaria – Fondo Audiovisual 2026",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Ministerio de las Culturas, las Artes y el Patrimonio",
+        "link": "https://fondos.gob.cl/ficha/mincap/quirino2026/",
+        "beneficiarios": "Personas Naturales y Jurídicas",
+        "fechas": "Inicio:  20-02-2026   Fin:  19-03-2026",
+        "montos": "Beneficios"
+    },
+    {
+        "nombre": "Fondo de las Artes Escénicas: 16ª Cuadrienal de Praga de Diseño y Espacio Escénico – PQ 2027",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Ministerio de las Culturas, las Artes y el Patrimonio",
+        "link": "https://fondos.gob.cl/ficha/mincap/pq2027/",
+        "beneficiarios": "Personas Naturales y Jurídicas",
+        "fechas": "Inicio:  13-02-2026   Fin:  20-03-2026",
+        "montos": "$100.000.000"
+    },
+    {
+        "nombre": "CONCURSO DE VINCULACIÓN CON LA COMUNIDAD 8% - FVCC 8%",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Gobierno Regional de Antofagasta",
+        "link": "https://fondos.gob.cl/ficha/goreantofagasta/fvcc8/",
+        "beneficiarios": "Persona Jurídica",
+        "fechas": "Inicio:  02-03-2026   Fin:  27-03-2026",
+        "montos": "Hasta $50.000.000"
+    },
+    {
+        "nombre": "FONDO DE FORTALECIMIENTO DE ORGANIZACIONES DE INTERÉS PÚBLICO (FFOIP)",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Ministerio Secretaría General de Gobierno",
+        "link": "https://fondos.gob.cl/ficha/segegob/ffoip/",
+        "beneficiarios": "Organizaciones",
+        "fechas": "Inicio:  02-03-2026   Fin:  02-04-2026",
+        "montos": "Entre $2.500.000 hasta $10.000.000"
+    },
+    {
+        "nombre": "FONDO DE FOMENTO DE MEDIOS DE COMUNICACIÓN SOCIAL REGIONALES, PROVINCIALES Y COMUNALES (FFMCS)",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Ministerio Secretaría General de Gobierno",
+        "link": "https://fondos.gob.cl/ficha/segegob/ffmcs/",
+        "beneficiarios": "Personas Naturales y Jurídicas",
+        "fechas": "Inicio:  02-03-2026   Fin:  19-04-2026",
+        "montos": "Hasta $5.500.000"
+    },
+    {
+        "nombre": "FONDO PARA LA INVESTIGACIÓN, INNOVACIÓN Y EDUCACIÓN EN RECURSOS HÍDRICOS (FIIE)",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Dirección General de Aguas",
+        "link": "https://fondos.gob.cl/ficha/dga/fiie/",
+        "beneficiarios": "Persona Jurídica",
+        "fechas": "Inicio:  20-02-2026   Fin:  26-04-2026",
+        "montos": "$166.776.000"
+    },
+    {
+        "nombre": "Programa Reconocimiento de Recursos y/o Reservas y Planificación Minera",
+        "estado": "ABIERTO",
+        "ubicacion": "Nacional",
+        "origen": "Empresa Nacional de Minería (ENAMI)",
+        "link": "https://fondos.gob.cl/ficha/enami/rr/",
+        "beneficiarios": "Personas Naturales y Jurídicas",
+        "fechas": "Inicio:  02-01-2026   Fin:  29-05-2026",
+        "montos": "Hasta US$ 250.000"
+    }
+]

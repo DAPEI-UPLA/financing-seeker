@@ -1,0 +1,556 @@
+14:46 - INFO - ====== WebDriver manager ======
+14:46 - INFO - Get LATEST chromedriver version for google-chrome
+14:46 - INFO - Get LATEST chromedriver version for google-chrome
+14:46 - INFO - There is no [win64] chromedriver "141.0.7390.122" for browser google-chrome "141.0.7390" in cache
+14:46 - INFO - Get LATEST chromedriver version for google-chrome
+14:46 - INFO - WebDriver version 141.0.7390.122 selected
+14:46 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.122/win32/chromedriver-win32.zip
+14:46 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.122/win32/chromedriver-win32.zip
+14:46 - INFO - Driver downloading response is 200
+14:46 - INFO - Get LATEST chromedriver version for google-chrome
+14:46 - INFO - Driver has been saved in cache [C:\Users\dapei\.wdm\drivers\chromedriver\win64\141.0.7390.122]
+14:46 - INFO - Solicitando datos desde: https://anid.cl/concursos/
+14:47 - INFO - Activando checkbox 'Abierto'...
+14:47 - INFO - Concurso encontrado: Beca de Magíster Nacional, Año Académico 2026
+14:47 - INFO - Concurso encontrado: Pasantías para investigadores de Centros y proyectos asociativos ANID en BCN 2025
+14:47 - INFO - Concurso encontrado: Fondo de Investigación en Agricultura – Escasez Hídrica, 2025
+14:47 - INFO - Concurso encontrado: Fondo de Investigación en Salares, Asignación 2025
+14:47 - INFO - Concurso encontrado: Beca de Doctorado Nacional, Año Académico 2026
+14:47 - INFO - Concurso encontrado: Convocatoria para Indexación de Revistas Científicas en Colección SciELO Chile 2025
+14:47 - INFO - Error en la paginación: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x169fe43+66515]
+	GetHandleVerifier [0x0x169fe84+66580]
+	(No symbol) [0x0x148dc48]
+	(No symbol) [0x0x14d8704]
+	(No symbol) [0x0x14d8aab]
+	(No symbol) [0x0x151f482]
+	(No symbol) [0x0x14fb214]
+	(No symbol) [0x0x151cba7]
+	(No symbol) [0x0x14fafc6]
+	(No symbol) [0x0x14cc2ca]
+	(No symbol) [0x0x14cd154]
+	GetHandleVerifier [0x0x18f7353+2521315]
+	GetHandleVerifier [0x0x18f22d3+2500707]
+	GetHandleVerifier [0x0x16c7c94+229924]
+	GetHandleVerifier [0x0x16b81f8+165768]
+	GetHandleVerifier [0x0x16becad+193085]
+	GetHandleVerifier [0x0x16a8158+100072]
+	GetHandleVerifier [0x0x16a82f0+100480]
+	GetHandleVerifier [0x0x16925aa+11066]
+	BaseThreadInitThunk [0x0x76c562c4+36]
+	RtlSubscribeWnfStateChangeNotification [0x0x777508b9+1081]
+	RtlSubscribeWnfStateChangeNotification [0x0x77750884+1028]
+
+14:47 - INFO - Proceso finalizado.
+14:47 - INFO - Datos guardados exitosamente en fondos_anid.json.
+09:19 - INFO - ====== WebDriver manager ======
+09:19 - INFO - Get LATEST chromedriver version for google-chrome
+09:19 - INFO - Get LATEST chromedriver version for google-chrome
+09:19 - INFO - Get LATEST chromedriver version for google-chrome
+09:19 - INFO - WebDriver version 141.0.7390.122 selected
+09:19 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.122/win32/chromedriver-win32.zip
+09:19 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/141.0.7390.122/win32/chromedriver-win32.zip
+09:19 - INFO - Driver downloading response is 200
+09:19 - INFO - Get LATEST chromedriver version for google-chrome
+09:19 - INFO - Driver has been saved in cache [C:\Users\dapei\.wdm\drivers\chromedriver\win64\141.0.7390.122]
+09:20 - INFO - Solicitando datos desde: https://anid.cl/concursos/
+09:20 - INFO - Activando checkbox 'Abierto'...
+09:20 - INFO - Concurso encontrado: Nuevos Nodos Macrozonales 2025: Nexos Territoriales
+09:20 - INFO - Concurso encontrado: Nodos Macrozonales 2025: Consolidación y Avance Estratégico
+09:20 - INFO - Concurso encontrado: Beca de Magíster Nacional, Año Académico 2026
+09:20 - INFO - Concurso encontrado: Pasantías para investigadores de Centros y proyectos asociativos ANID en BCN 2025
+09:20 - INFO - Concurso encontrado: Fondo de Investigación en Agricultura – Escasez Hídrica, 2025
+09:20 - INFO - Concurso encontrado: Fondo de Investigación en Salares, Asignación 2025
+09:20 - INFO - Avanzando a la página 2...
+09:20 - INFO - Esperando 7 segundos para cargar nuevos concursos...
+09:20 - INFO - No se detectaron nuevos concursos, intentando esperar más...
+09:20 - INFO - Concurso encontrado: Beca de Doctorado Nacional, Año Académico 2026
+09:20 - INFO - Concurso encontrado: Convocatoria para Indexación de Revistas Científicas en Colección SciELO Chile 2025
+09:20 - INFO - No hay más páginas.
+09:20 - INFO - Proceso finalizado.
+09:20 - INFO - Datos guardados exitosamente en fondos_anid.json.
+12:11 - INFO - ====== WebDriver manager ======
+12:11 - INFO - Get LATEST chromedriver version for google-chrome
+12:11 - INFO - Get LATEST chromedriver version for google-chrome
+12:11 - INFO - There is no [win64] chromedriver "142.0.7444.59" for browser google-chrome "142.0.7444" in cache
+12:11 - INFO - Get LATEST chromedriver version for google-chrome
+12:11 - INFO - WebDriver version 142.0.7444.59 selected
+12:11 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.59/win32/chromedriver-win32.zip
+12:11 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.59/win32/chromedriver-win32.zip
+12:11 - INFO - Driver downloading response is 200
+12:11 - INFO - Get LATEST chromedriver version for google-chrome
+12:11 - INFO - Driver has been saved in cache [C:\Users\dapei\.wdm\drivers\chromedriver\win64\142.0.7444.59]
+12:12 - INFO - Solicitando datos desde: https://anid.cl/concursos/
+12:12 - INFO - Activando checkbox 'Abierto'...
+12:12 - INFO - Concurso encontrado: Nuevos Nodos Macrozonales 2025: Nexos Territoriales
+12:12 - INFO - Concurso encontrado: Nodos Macrozonales 2025: Consolidación y Avance Estratégico
+12:12 - INFO - Concurso encontrado: Beca de Magíster Nacional, Año Académico 2026
+12:12 - INFO - Concurso encontrado: Pasantías para investigadores de Centros y proyectos asociativos ANID en BCN 2025
+12:12 - INFO - Concurso encontrado: Fondo de Investigación en Agricultura – Escasez Hídrica, 2025
+12:12 - INFO - Concurso encontrado: Fondo de Investigación en Salares, Asignación 2025
+12:12 - INFO - Avanzando a la página 2...
+12:12 - INFO - Esperando 7 segundos para cargar nuevos concursos...
+12:12 - INFO - No se detectaron nuevos concursos, intentando esperar más...
+12:12 - INFO - Concurso encontrado: Beca de Doctorado Nacional, Año Académico 2026
+12:12 - INFO - Concurso encontrado: Convocatoria para Indexación de Revistas Científicas en Colección SciELO Chile 2025
+12:12 - INFO - No hay más páginas.
+12:12 - INFO - Proceso finalizado.
+12:12 - INFO - Datos guardados exitosamente en fondos_anid.json.
+13:53 - INFO - ====== WebDriver manager ======
+13:53 - INFO - Get LATEST chromedriver version for google-chrome
+13:53 - INFO - Get LATEST chromedriver version for google-chrome
+13:53 - INFO - There is no [win64] chromedriver "142.0.7444.61" for browser google-chrome "142.0.7444" in cache
+13:53 - INFO - Get LATEST chromedriver version for google-chrome
+13:53 - INFO - WebDriver version 142.0.7444.61 selected
+13:53 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.61/win32/chromedriver-win32.zip
+13:53 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.61/win32/chromedriver-win32.zip
+13:53 - INFO - Driver downloading response is 200
+13:53 - INFO - Get LATEST chromedriver version for google-chrome
+13:53 - INFO - Driver has been saved in cache [C:\Users\dapei\.wdm\drivers\chromedriver\win64\142.0.7444.61]
+13:53 - INFO - Solicitando datos desde: https://anid.cl/concursos/
+13:53 - INFO - Activando checkbox 'Abierto'...
+13:53 - INFO - Concurso encontrado: Nuevos Nodos Macrozonales 2025: Nexos Territoriales
+13:53 - INFO - Concurso encontrado: Nodos Macrozonales 2025: Consolidación y Avance Estratégico
+13:53 - INFO - Concurso encontrado: Beca de Magíster Nacional, Año Académico 2026
+13:53 - INFO - Concurso encontrado: Pasantías para investigadores de Centros y proyectos asociativos ANID en BCN 2025
+13:53 - INFO - Concurso encontrado: Fondo de Investigación en Agricultura – Escasez Hídrica, 2025
+13:53 - INFO - Concurso encontrado: Fondo de Investigación en Salares, Asignación 2025
+13:53 - INFO - Avanzando a la página 2...
+13:53 - INFO - Esperando 7 segundos para cargar nuevos concursos...
+13:53 - INFO - No se detectaron nuevos concursos, intentando esperar más...
+13:53 - INFO - Concurso encontrado: Beca de Doctorado Nacional, Año Académico 2026
+13:53 - INFO - Concurso encontrado: Convocatoria para Indexación de Revistas Científicas en Colección SciELO Chile 2025
+13:53 - INFO - No hay más páginas.
+13:53 - INFO - Proceso finalizado.
+13:53 - INFO - Datos guardados exitosamente en fondos_anid.json.
+13:32 - INFO - ====== WebDriver manager ======
+13:32 - INFO - Get LATEST chromedriver version for google-chrome
+13:32 - INFO - Get LATEST chromedriver version for google-chrome
+13:32 - INFO - There is no [win64] chromedriver "142.0.7444.162" for browser google-chrome "142.0.7444" in cache
+13:32 - INFO - Get LATEST chromedriver version for google-chrome
+13:32 - INFO - WebDriver version 142.0.7444.162 selected
+13:32 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.162/win32/chromedriver-win32.zip
+13:32 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.162/win32/chromedriver-win32.zip
+13:32 - INFO - Driver downloading response is 200
+13:32 - INFO - Get LATEST chromedriver version for google-chrome
+13:32 - INFO - Driver has been saved in cache [C:\Users\dapei\.wdm\drivers\chromedriver\win64\142.0.7444.162]
+13:32 - INFO - Solicitando datos desde: https://anid.cl/concursos/
+13:32 - INFO - Activando checkbox 'Abierto'...
+13:33 - INFO - Concurso encontrado: Nuevos Nodos Macrozonales 2025: Nexos Territoriales
+13:33 - INFO - Concurso encontrado: Nodos Macrozonales 2025: Consolidación y Avance Estratégico
+13:33 - INFO - Concurso encontrado: Beca de Magíster Nacional, Año Académico 2026
+13:33 - INFO - Concurso encontrado: Pasantías para investigadores de Centros y proyectos asociativos ANID en BCN 2025
+13:33 - INFO - Concurso encontrado: Beca de Doctorado Nacional, Año Académico 2026
+13:33 - INFO - Concurso encontrado: Convocatoria para Indexación de Revistas Científicas en Colección SciELO Chile 2025
+13:33 - INFO - Error en la paginación: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1394093
+	0x13940d4
+	0x119e71d
+	0x11ea03d
+	0x11ea41b
+	0x12317f2
+	0x120c954
+	0x122ee17
+	0x120c706
+	0x11dda30
+	0x11ded54
+	0x1605744
+	0x160091a
+	0x13bc322
+	0x13ac458
+	0x13b31dd
+	0x139c408
+	0x139c5cc
+	0x138675a
+	0x75ac62c4
+	0x77580989
+	0x77580954
+
+13:33 - INFO - Proceso finalizado.
+13:33 - INFO - Datos guardados exitosamente en fondos_anid.json.
+14:31 - INFO - ====== WebDriver manager ======
+14:31 - INFO - Get LATEST chromedriver version for google-chrome
+14:31 - INFO - Get LATEST chromedriver version for google-chrome
+14:31 - INFO - Get LATEST chromedriver version for google-chrome
+14:31 - INFO - WebDriver version 142.0.7444.162 selected
+14:31 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.162/win32/chromedriver-win32.zip
+14:31 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.162/win32/chromedriver-win32.zip
+14:31 - INFO - Driver downloading response is 200
+14:31 - INFO - Get LATEST chromedriver version for google-chrome
+14:31 - INFO - Driver has been saved in cache [C:\Users\dapei\.wdm\drivers\chromedriver\win64\142.0.7444.162]
+14:31 - INFO - Solicitando datos desde: https://anid.cl/concursos/
+14:31 - INFO - Activando checkbox 'Abierto'...
+14:31 - INFO - Concurso encontrado: Nuevos Nodos Macrozonales 2025: Nexos Territoriales
+14:31 - INFO - Concurso encontrado: Nodos Macrozonales 2025: Consolidación y Avance Estratégico
+14:31 - INFO - Concurso encontrado: Beca de Magíster Nacional, Año Académico 2026
+14:31 - INFO - Concurso encontrado: Pasantías para investigadores de Centros y proyectos asociativos ANID en BCN 2025
+14:31 - INFO - Concurso encontrado: Beca de Doctorado Nacional, Año Académico 2026
+14:31 - INFO - Concurso encontrado: Convocatoria para Indexación de Revistas Científicas en Colección SciELO Chile 2025
+14:31 - INFO - Error en la paginación: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1134093
+	0x11340d4
+	0xf3e71d
+	0xf8a03d
+	0xf8a41b
+	0xfd17f2
+	0xfac954
+	0xfcee17
+	0xfac706
+	0xf7da30
+	0xf7ed54
+	0x13a5744
+	0x13a091a
+	0x115c322
+	0x114c458
+	0x11531dd
+	0x113c408
+	0x113c5cc
+	0x112675a
+	0x75ac62c4
+	0x77580989
+	0x77580954
+
+14:31 - INFO - Proceso finalizado.
+14:31 - INFO - Datos guardados exitosamente en fondos_anid.json.
+14:32 - INFO - ====== WebDriver manager ======
+14:32 - INFO - Get LATEST chromedriver version for google-chrome
+14:32 - INFO - Get LATEST chromedriver version for google-chrome
+14:32 - INFO - Driver [C:\Users\dapei\.wdm\drivers\chromedriver\win64\142.0.7444.162\chromedriver-win32/chromedriver.exe] found in cache
+14:33 - INFO - Solicitando datos desde: https://anid.cl/concursos/
+14:33 - INFO - Activando checkbox 'Abierto'...
+14:33 - INFO - Concurso encontrado: Nuevos Nodos Macrozonales 2025: Nexos Territoriales
+14:33 - INFO - Concurso encontrado: Nodos Macrozonales 2025: Consolidación y Avance Estratégico
+14:33 - INFO - Concurso encontrado: Beca de Magíster Nacional, Año Académico 2026
+14:33 - INFO - Concurso encontrado: Pasantías para investigadores de Centros y proyectos asociativos ANID en BCN 2025
+14:33 - INFO - Concurso encontrado: Beca de Doctorado Nacional, Año Académico 2026
+14:33 - INFO - Concurso encontrado: Convocatoria para Indexación de Revistas Científicas en Colección SciELO Chile 2025
+14:33 - INFO - Error en la paginación: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1134093
+	0x11340d4
+	0xf3e71d
+	0xf8a03d
+	0xf8a41b
+	0xfd17f2
+	0xfac954
+	0xfcee17
+	0xfac706
+	0xf7da30
+	0xf7ed54
+	0x13a5744
+	0x13a091a
+	0x115c322
+	0x114c458
+	0x11531dd
+	0x113c408
+	0x113c5cc
+	0x112675a
+	0x75ac62c4
+	0x77580989
+	0x77580954
+
+14:33 - INFO - Proceso finalizado.
+14:33 - INFO - Datos guardados exitosamente en fondos_anid.json.
+14:33 - INFO - ====== WebDriver manager ======
+14:33 - INFO - Get LATEST chromedriver version for google-chrome
+14:33 - INFO - Get LATEST chromedriver version for google-chrome
+14:33 - INFO - Driver [C:\Users\dapei\.wdm\drivers\chromedriver\win64\142.0.7444.162\chromedriver-win32/chromedriver.exe] found in cache
+14:33 - INFO - Solicitando datos desde: https://anid.cl/concursos/
+14:33 - INFO - Activando checkbox 'Abierto'...
+14:33 - INFO - Concurso encontrado: Nuevos Nodos Macrozonales 2025: Nexos Territoriales
+14:33 - INFO - Concurso encontrado: Nodos Macrozonales 2025: Consolidación y Avance Estratégico
+14:33 - INFO - Concurso encontrado: Beca de Magíster Nacional, Año Académico 2026
+14:33 - INFO - Concurso encontrado: Pasantías para investigadores de Centros y proyectos asociativos ANID en BCN 2025
+14:33 - INFO - Concurso encontrado: Beca de Doctorado Nacional, Año Académico 2026
+14:33 - INFO - Concurso encontrado: Convocatoria para Indexación de Revistas Científicas en Colección SciELO Chile 2025
+14:34 - INFO - Error en la paginación: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1134093
+	0x11340d4
+	0xf3e71d
+	0xf8a03d
+	0xf8a41b
+	0xfd17f2
+	0xfac954
+	0xfcee17
+	0xfac706
+	0xf7da30
+	0xf7ed54
+	0x13a5744
+	0x13a091a
+	0x115c322
+	0x114c458
+	0x11531dd
+	0x113c408
+	0x113c5cc
+	0x112675a
+	0x75ac62c4
+	0x77580989
+	0x77580954
+
+14:34 - INFO - Proceso finalizado.
+14:34 - INFO - Datos guardados exitosamente en fondos_anid.json.
+09:39 - INFO - ====== WebDriver manager ======
+09:39 - INFO - Get LATEST chromedriver version for google-chrome
+09:39 - INFO - Get LATEST chromedriver version for google-chrome
+09:39 - INFO - There is no [win64] chromedriver "142.0.7444.175" for browser google-chrome "142.0.7444" in cache
+09:39 - INFO - Get LATEST chromedriver version for google-chrome
+09:39 - INFO - WebDriver version 142.0.7444.175 selected
+09:39 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+09:39 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+09:39 - INFO - Driver downloading response is 200
+09:39 - INFO - Get LATEST chromedriver version for google-chrome
+09:39 - INFO - Driver has been saved in cache [C:\Users\dapei\.wdm\drivers\chromedriver\win64\142.0.7444.175]
+09:40 - INFO - Solicitando datos desde: https://anid.cl/concursos/
+09:40 - INFO - Activando checkbox 'Abierto'...
+09:40 - INFO - Concurso encontrado: Nuevos Nodos Macrozonales 2025: Nexos Territoriales
+09:40 - INFO - Concurso encontrado: Nodos Macrozonales 2025: Consolidación y Avance Estratégico
+09:40 - INFO - Concurso encontrado: Beca de Magíster Nacional, Año Académico 2026
+09:40 - INFO - Concurso encontrado: Pasantías para investigadores de Centros y proyectos asociativos ANID en BCN 2025
+09:40 - INFO - Concurso encontrado: Convocatoria para Indexación de Revistas Científicas en Colección SciELO Chile 2025
+09:40 - INFO - Error en la paginación: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1324103
+	0x1324144
+	0x112e71d
+	0x117a03d
+	0x117a41b
+	0x11c17f2
+	0x119c954
+	0x11bee17
+	0x119c706
+	0x116da30
+	0x116ed54
+	0x15957b4
+	0x159098a
+	0x134c392
+	0x133c4c8
+	0x134324d
+	0x132c478
+	0x132c63c
+	0x13167ca
+	0x76f962c4
+	0x77920989
+	0x77920954
+
+09:40 - INFO - Proceso finalizado.
+09:40 - INFO - Datos guardados exitosamente en fondos_anid.json.
+11:48 - INFO - ====== WebDriver manager ======
+11:48 - INFO - Get LATEST chromedriver version for google-chrome
+11:48 - INFO - Get LATEST chromedriver version for google-chrome
+11:48 - INFO - Get LATEST chromedriver version for google-chrome
+11:48 - INFO - WebDriver version 142.0.7444.175 selected
+11:48 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+11:48 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+11:48 - INFO - Driver downloading response is 200
+11:48 - INFO - Get LATEST chromedriver version for google-chrome
+11:48 - INFO - Driver has been saved in cache [C:\Users\dapei\.wdm\drivers\chromedriver\win64\142.0.7444.175]
+11:48 - INFO - Solicitando datos desde: https://anid.cl/concursos/
+11:48 - INFO - Activando checkbox 'Abierto'...
+11:48 - INFO - Concurso encontrado: Beca de Magíster Nacional, Año Académico 2026
+11:48 - INFO - Concurso encontrado: Convocatoria para Indexación de Revistas Científicas en Colección SciELO Chile 2025
+11:49 - INFO - Error en la paginación: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xd34103
+	0xd34144
+	0xb3e71d
+	0xb8a03d
+	0xb8a41b
+	0xbd17f2
+	0xbac954
+	0xbcee17
+	0xbac706
+	0xb7da30
+	0xb7ed54
+	0xfa57b4
+	0xfa098a
+	0xd5c392
+	0xd4c4c8
+	0xd5324d
+	0xd3c478
+	0xd3c63c
+	0xd267ca
+	0x76f962c4
+	0x77920989
+	0x77920954
+
+11:49 - INFO - Proceso finalizado.
+11:49 - INFO - Datos guardados exitosamente en fondos_anid.json.
+11:02 - INFO - ====== WebDriver manager ======
+11:02 - INFO - Get LATEST chromedriver version for google-chrome
+11:03 - INFO - Get LATEST chromedriver version for google-chrome
+11:03 - INFO - There is no [win64] chromedriver "143.0.7499.169" for browser google-chrome "143.0.7499" in cache
+11:03 - INFO - Get LATEST chromedriver version for google-chrome
+11:03 - INFO - WebDriver version 143.0.7499.169 selected
+11:03 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+11:03 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.169/win32/chromedriver-win32.zip
+11:03 - INFO - Driver downloading response is 200
+11:03 - INFO - Get LATEST chromedriver version for google-chrome
+11:03 - INFO - Driver has been saved in cache [C:\Users\dapei\.wdm\drivers\chromedriver\win64\143.0.7499.169]
+11:03 - INFO - Solicitando datos desde: https://anid.cl/concursos/
+11:03 - INFO - Activando checkbox 'Abierto'...
+11:03 - INFO - Concurso encontrado: Concurso de Investigación Tecnológica IDeA 2026
+11:03 - INFO - Concurso encontrado: Convocatoria para Indexación de Revistas Científicas en Colección SciELO Chile 2025
+11:03 - INFO - Error en la paginación: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xfa12d3
+	0xfa1314
+	0xd8e6dd
+	0xdd93a5
+	0xdd977b
+	0xe20382
+	0xdfb534
+	0xe1db13
+	0xdfb2e6
+	0xdcd321
+	0xdce1d4
+	0x11f5314
+	0x11f08cb
+	0x120d1aa
+	0xfbb1d8
+	0xfc31dd
+	0xfa95d8
+	0xfa9799
+	0xf93b28
+	0x76de62c4
+	0x777e0989
+	0x777e0954
+
+11:03 - INFO - Proceso finalizado.
+11:03 - INFO - Datos guardados exitosamente en fondos_anid.json.
+12:26 - INFO - ====== WebDriver manager ======
+12:26 - INFO - Get LATEST chromedriver version for google-chrome
+12:26 - INFO - Get LATEST chromedriver version for google-chrome
+12:26 - INFO - There is no [win64] chromedriver "143.0.7499.192" for browser google-chrome "143.0.7499" in cache
+12:26 - INFO - Get LATEST chromedriver version for google-chrome
+12:26 - INFO - WebDriver version 143.0.7499.192 selected
+12:26 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.192/win32/chromedriver-win32.zip
+12:26 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.192/win32/chromedriver-win32.zip
+12:26 - INFO - Driver downloading response is 200
+12:26 - INFO - Get LATEST chromedriver version for google-chrome
+12:26 - INFO - Driver has been saved in cache [C:\Users\dapei\.wdm\drivers\chromedriver\win64\143.0.7499.192]
+12:26 - INFO - Solicitando datos desde: https://anid.cl/concursos/
+12:26 - INFO - Activando checkbox 'Abierto'...
+12:26 - INFO - Concurso encontrado: Concurso de Investigación Tecnológica IDeA 2026
+12:26 - INFO - Concurso encontrado: Convocatoria para Indexación de Revistas Científicas en Colección SciELO Chile 2025
+12:27 - INFO - Error en la paginación: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x331213
+	0x331254
+	0x11e6dd
+	0x1693a5
+	0x16977b
+	0x1b0382
+	0x18b534
+	0x1adb13
+	0x18b2e6
+	0x15d321
+	0x15e1d4
+	0x585254
+	0x58080b
+	0x59d0ea
+	0x34b118
+	0x35311d
+	0x339518
+	0x3396d9
+	0x323a68
+	0x76de62c4
+	0x777e0989
+	0x777e0954
+	0
+
+12:27 - INFO - Proceso finalizado.
+12:27 - INFO - Datos guardados exitosamente en fondos_anid.json.
+14:58 - INFO - ====== WebDriver manager ======
+14:58 - INFO - Get LATEST chromedriver version for google-chrome
+14:58 - INFO - Get LATEST chromedriver version for google-chrome
+14:58 - INFO - Driver [C:\Users\dapei\.wdm\drivers\chromedriver\win64\143.0.7499.192\chromedriver-win32/chromedriver.exe] found in cache
+14:58 - INFO - Solicitando datos desde: https://anid.cl/concursos/
+14:58 - INFO - Activando checkbox 'Abierto'...
+14:58 - INFO - Concurso encontrado: Concurso de Investigación Tecnológica IDeA 2026
+14:58 - INFO - Concurso encontrado: Convocatoria para Indexación de Revistas Científicas en Colección SciELO Chile 2025
+14:58 - INFO - Error en la paginación: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x331213
+	0x331254
+	0x11e6dd
+	0x1693a5
+	0x16977b
+	0x1b0382
+	0x18b534
+	0x1adb13
+	0x18b2e6
+	0x15d321
+	0x15e1d4
+	0x585254
+	0x58080b
+	0x59d0ea
+	0x34b118
+	0x35311d
+	0x339518
+	0x3396d9
+	0x323a68
+	0x76de62c4
+	0x777e0989
+	0x777e0954
+	0
+
+14:58 - INFO - Proceso finalizado.
+14:58 - INFO - Datos guardados exitosamente en fondos_anid.json.
+08:07 - INFO - ====== WebDriver manager ======
+08:07 - INFO - Get LATEST chromedriver version for google-chrome
+08:07 - INFO - Get LATEST chromedriver version for google-chrome
+08:07 - INFO - There is no [win64] chromedriver "145.0.7632.117" for browser google-chrome "145.0.7632" in cache
+08:07 - INFO - Get LATEST chromedriver version for google-chrome
+08:07 - INFO - WebDriver version 145.0.7632.117 selected
+08:07 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+08:07 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+08:07 - INFO - Driver downloading response is 200
+08:07 - INFO - Get LATEST chromedriver version for google-chrome
+08:07 - INFO - Driver has been saved in cache [C:\Users\dapei\.wdm\drivers\chromedriver\win64\145.0.7632.117]
+08:07 - INFO - Solicitando datos desde: https://anid.cl/concursos/
+08:07 - INFO - Activando checkbox 'Abierto'...
+08:07 - INFO - Concurso encontrado: Beca Magíster en Chile para Profesionales de la Educación 2026
+08:07 - INFO - Concurso encontrado: Segundo Llamado de Beneficios Complementarios 2026
+08:07 - INFO - Concurso encontrado: Proyectos de Investigación y Desarrollo en Salud (Fonis) 2026
+08:07 - INFO - Concurso encontrado: Concurso de Investigación Tecnológica IDeA 2026
+08:08 - INFO - Error en la paginación: Message: 
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1237dd3
+	0x1237e14
+	0x1041db0
+	0x108c20a
+	0x108c4ab
+	0x10cde32
+	0x10aea84
+	0x10cb621
+	0x10ae7d6
+	0x1080049
+	0x1080e04
+	0x1496924
+	0x1491bf7
+	0x14af5a0
+	0x1250f58
+	0x125891d
+	0x1240648
+	0x1240812
+	0x122a21a
+	0x753c62c4
+	0x76f109a9
+	0x76f10974
+
+08:08 - INFO - Proceso finalizado.
+08:08 - INFO - Datos guardados exitosamente en fondos_anid.json.

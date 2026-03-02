@@ -1,0 +1,301 @@
+:root {
+  --cyan: #009fe3;
+  --cyan-dark: #007bb8;
+  --text: #565656;
+  --bg: #f4f4f4;
+}
+
+/* ===== RESET Y BASE ===== */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  overflow-x: hidden !important;
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+/* ===== ENCABEZADO ===== */
+.encabezado {
+  background-color: #ffffff;
+  color: var(--text);
+  padding: 20px 0;
+  border-bottom: 2px solid var(--cyan);
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+/* ===== BARRA SUPERIOR ===== */
+.barra-superior {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.barra-superior h1 {
+  flex: 1;
+  text-align: center;
+  font-weight: 800;
+  font-size: 1.6rem;
+  color: var(--text);
+  margin: 0;
+}
+
+/* ===== BOTÓN FILTROS ===== */
+.btn-filtros {
+  display: inline-block;
+  background-color: var(--cyan);
+  color: white;
+  padding: 8px 16px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 700;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.btn-filtros:hover {
+  background-color: var(--cyan-dark);
+  transform: translateY(-2px);
+}
+
+/* ===== CONTENIDO ===== */
+.contenido {
+  flex: 1;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+/* ===== CONTENEDOR DE COLUMNAS ===== */
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  padding: 0 12px;
+}
+
+/* ===== COLUMNAS ===== */
+.columna {
+  background: #ffffff;
+  padding: 1rem;
+  border-radius: 10px;
+  width: clamp(280px, 30vw, 340px);
+  height: 650px;
+  border: 1px solid #dcdcdc;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+/* ===== TARJETAS ===== */
+.tarjetas {
+  max-height: 600px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+.tarjeta {
+  background-color: #ffffff;
+  color: #565656;
+  font-weight: 600;
+  margin-top: 1rem;
+  padding: 0.8rem;
+  border-radius: 8px;
+  border: 1px solid #dcdcdc;
+  border-left: 4px solid var(--cyan);
+  transition: transform 0.2s ease, border-color 0.2s ease;
+  overflow-x: hidden;
+  word-wrap: break-word;
+  white-space: normal;
+  max-width: 100%;
+}
+
+/* ===== COLORES DE FRANJA SEGÚN DÍAS ===== */
+.tarjeta-amarilla {
+  border-left: 5px solid #ffc107 !important; /* Amarillo: 5–7 días */
+}
+
+.tarjeta-roja {
+  border-left: 5px solid #dc3545 !important; /* Rojo: 0–4 días */
+}
+
+.tarjeta .dias-restantes.cerrado {
+  color: gray;
+  font-style: italic;
+}
+
+/* ===== INTERACCIÓN ===== */
+.tarjeta:hover {
+  transform: translateY(-2px);
+  border-color: var(--cyan);
+}
+
+/* ===== TÍTULOS DE TARJETAS ===== */
+.tarjeta h3 {
+  font-size: 1.1rem;
+  margin: 0 0 0.6rem 0;
+  font-weight: 700;
+  color: var(--text);
+  letter-spacing: 0.2px;
+  text-transform: capitalize;
+  text-shadow: 0 0 0.5px var(--text), 0 0 0.5px var(--text);
+}
+
+/* ===== TEXTO DE TARJETAS ===== */
+.tarjeta p {
+  color: var(--text);
+  font-weight: 600;
+  margin: 0.2rem 0;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+  white-space: normal;
+  min-width: 0;
+  text-transform: capitalize;
+}
+
+/* ===== BOTONES DENTRO DE TARJETAS ===== */
+.btn-link {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: white;
+  background: var(--cyan);
+  padding: 0.4rem 0.8rem;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  max-width: 100%;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+  white-space: normal;
+  text-transform: none;
+}
+
+.btn-link:hover {
+  background: var(--cyan-dark);
+  transform: scale(1.05);
+}
+
+/* ===== BOTÓN FLOTANTE PLAY/PAUSE ===== */
+.btn-scroll-fab {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 65px;
+  height: 65px;
+  background-color: var(--cyan);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  font-size: 28px;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+  transition: all 0.3s ease;
+  z-index: 1000;
+}
+
+.btn-scroll-fab:hover {
+  background-color: var(--cyan-dark);
+  transform: scale(1.1);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.3);
+}
+
+.btn-scroll-fab:active {
+  transform: scale(0.95);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+
+.btn-scroll-fab.playing {
+  background-color: var(--cyan-dark);
+  transform: rotate(90deg);
+}
+
+/* ===== PORTALES (control de scroll y texto largo) ===== */
+#portales,
+#portales .tarjetas,
+#portales .tarjeta {
+  overflow-x: hidden !important;
+  max-width: 100%;
+}
+
+#portales .tarjeta h3,
+#portales .tarjeta p,
+#portales .tarjeta a {
+  word-break: break-word;
+  overflow-wrap: anywhere;
+  white-space: normal;
+  min-width: 0;
+}
+
+/* ===== MEDIOS EMBEBIDOS ===== */
+.tarjeta img,
+.tarjeta iframe {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ===== FOOTER ===== */
+.footer {
+  text-align: center;
+  padding: 15px;
+  background-color: #ffffff;
+  font-size: 14px;
+  color: var(--text);
+  border-top: 2px solid var(--cyan);
+  font-weight: 600;
+  margin-top: auto; /* 👈 mantiene el footer al fondo */
+}
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 900px) {
+  .barra-superior {
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .btn-filtros {
+    width: auto;
+    text-align: center;
+  }
+
+  .container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .columna {
+    width: 90%;
+    height: auto;
+  }
+
+  .tarjetas {
+    max-height: none;
+  }
+}
