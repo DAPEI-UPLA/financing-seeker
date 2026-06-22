@@ -17,7 +17,6 @@ def google_search(api_key, search_engine_id, query, **params):
     response.raise_for_status()
     return response.json()
 
-api_key = 'AIzaSyB80-5hhQxCtJQZRnTPC2URwo52sRbOUCk'
 search_engine_id = '219ebe172fe8a485e'
 queries = ['Fondos concursable', 'Concurso', 'Llamado', 'Postulaciones', 'Iniciativas', 'Lanzamientos', 'Fondo Nacional', 'Fondo de fomento', 'Desafío', 'Convocatoria']
 
